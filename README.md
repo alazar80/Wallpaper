@@ -22,7 +22,7 @@
 - Wallpapers: **WallpaperManager**
 
 ---
-(./wallpaper.jpg)
+![Braydon's GitHub Banner](./wallpaper.jpg)
 ---
 
 ## 🚀 Quick Start
