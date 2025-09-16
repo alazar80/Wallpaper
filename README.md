@@ -22,6 +22,8 @@
 - Wallpapers: **WallpaperManager**
 
 ---
+[⬇️ Download the APK](https://github.com/alazar80/Wallpaper/raw/main/A's%20Wallpaper.apk)
+---
 ![Braydon's GitHub Banner](./wallpaper.jpg)
 ---
 
